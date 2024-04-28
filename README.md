@@ -1,4 +1,4 @@
-# alura-challenges
+# alura-challenges-js
 Repositório para desenvolvimento dos desafios dos cursos da Alura em JS.
 
 
